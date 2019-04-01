@@ -1,0 +1,11 @@
+# This file is used to ignore files which are generated
+# ----------------------------------------------------------------------------
+
+*.pro.user
+build-zkw-Desktop_Qt_5_6_2_MinGW_32bit-Debug/
+MyCode/build-CodeCraft-2019-Desktop_Qt_5_6_2_MinGW_32bit-Debug/
+MyCode/build-CodeCraft-2019-Desktop_Qt_5_6_2_MinGW_32bit-Release/
+MyCode/bin/
+MyCode/build/
+MinCostMaxFlow-master/build-mincostmaxflow-Desktop_Qt_5_6_2_MinGW_32bit-Debug/
+MinCostMaxFlow-master/build-mincostmaxflow-Desktop_Qt_5_6_2_MinGW_32bit-Release/
